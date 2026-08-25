@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:yt="http://www.youtube.com/xml/schemas/2015">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLh6wTRX09wXc3bRz7WeNP4QbYbEl2rHgn" />
+ <id>yt:playlist:PLh6wTRX09wXc3bRz7WeNP4QbYbEl2rHgn</id>
+ <yt:playlistId>PLh6wTRX09wXc3bRz7WeNP4QbYbEl2rHgn</yt:playlistId>
+ <yt:channelId>UCTQyboCR68kDhHE0aP_abDQ</yt:channelId>
+ <title>Al Ángulo</title>
+ <author>
+  <name>Movistar Deportes Perú</name>
+  <uri>https://www.youtube.com/channel/UCTQyboCR68kDhHE0aP_abDQ</uri>
+ </author>
+ <published>2017-08-23T22:39:18+00:00</published>
+ <entry>
+  <id>yt:video:Y2GTnXE7db0</id>
+  <yt:videoId>Y2GTnXE7db0</yt:videoId>
+  <yt:channelId>UCTQyboCR68kDhHE0aP_abDQ</yt:channelId>
+  <title>FC CAJAMARCA 2-3 UNIVERSITARIO: LA ‘U’ SUMA UN TRIUNFO Y SE ACERCA A LA CIMA  | AL ÁNGULO 🥅⚽</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Y2GTnXE7db0" />
+  <author>
+   <name>Movistar Deportes Perú</name>
+   <uri>https://www.youtube.com/channel/UCTQyboCR68kDhHE0aP_abDQ</uri>
+  </author>
+  <published>2026-08-18T19:19:19+00:00</published>
+  <updated>2026-08-22T00:51:09+00:00</updated>
+  <media:group>
+   <media:title>FC CAJAMARCA 2-3 UNIVERSITARIO: LA ‘U’ SUMA UN TRIUNFO Y SE ACERCA A LA CIMA  | AL ÁNGULO 🥅⚽</media:title>
+   <media:content url="https://www.youtube.com/v/Y2GTnXE7db0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <media:thumbnail url="https://i2.ytimg.com/vi/Y2GTnXE7db0/hqdefault.jpg" width="480" height="360" />
+   <media:description>#MovistarDeportes #AlÁngulo #AA  #TuncheRivera #Universtario #EstadioMonumental 
+
+Síguenos en Facebook ► https://www.facebook.com/MovistarDeportesPeru/
+
+Síguenos en 𝕏 ► https://twitter.com/MovistarDeporPe
+
+Síguenos en Instagram ► https://www.instagram.com/movistardeportesperu/
+
+Síguenos en TikTok ► https://www.tiktok.com/@movistar_deportes
+
+🔵 Mira más contenido como este donde quieras SIN COSTO activando tu Movistar TV App ► http://smvst.com/regMovistar​
+
+🔵 Si aún no eres Movistar, pide TV Streaming al 0800-11800 o aquí ► http://onlinemovistar.com/TvStreaming</media:description>
+   <media:community>
+    <media:starRating count="75" average="5.00" min="1" max="5" />
+    <media:statistics views="5213" />
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:elU5O41GYXo</id>
+  <yt:videoId>elU5O41GYXo</yt:videoId>
+  <yt:channelId>UCTQyboCR68kDhHE0aP_abDQ</yt:channelId>
+  <title>UNIVERSITARIO: ¿SEGUIRÁ JUGANDO CON LÍNEA DE 3 O DE 4 DEFENSORES?  | AL ÁNGULO 🥅⚽</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=elU5O41GYXo" />
+  <author>
+   <name>Movistar Deportes Perú</name>
+   <uri>https://www.youtube.com/channel/UCTQyboCR68kDhHE0aP_abDQ</uri>
+  </author>
+  <published>2026-08-12T19:03:42+00:00</published>
+  <updated>2026-08-16T03:11:31+00:00</updated>
+  <media:group>
+   <media:title>UNIVERSITARIO: ¿SEGUIRÁ JUGANDO CON LÍNEA DE 3 O DE 4 DEFENSORES?  | AL ÁNGULO 🥅⚽</media:title>
+   <media:content url="https://www.youtube.com/v/elU5O41GYXo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <media:thumbnail url="https://i2.ytimg.com/vi/elU5O41GYXo/hqdefault.jpg" width="480" height="360" />
+   <media:description>#MovistarDeportes #AlÁngulo #AA  #TuncheRivera #Universtario #EstadioMonumental 
+
+Síguenos en Facebook ► https://www.facebook.com/MovistarDeportesPeru/
+
+Síguenos en 𝕏 ► https://twitter.com/MovistarDeporPe
+
+Síguenos en Instagram ► https://www.instagram.com/movistardeportesperu/
+
+Síguenos en TikTok ► https://www.tiktok.com/@movistar_deportes
+
+🔵 Mira más contenido como este donde quieras SIN COSTO activando tu Movistar TV App ► http://smvst.com/regMovistar​
+
+🔵 Si aún no eres Movistar, pide TV Streaming al 0800-11800 o aquí ► http://onlinemovistar.com/TvStreaming</media:description>
+   <media:community>
+    <media:starRating count="73" average="5.00" min="1" max="5" />
+    <media:statistics views="7228" />
+   </media:community>
+  </media:group>
+ </entry>
+ </feed>
